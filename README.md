@@ -1,5 +1,6 @@
 # Graphs_and_QUIZ
-
+This GUI application given an idea about what things can you do 
+using python matplotlib and tkinter .
 ## GRAPHS SECTION
 #### (examples)
 
